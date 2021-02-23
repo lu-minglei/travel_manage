@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:04 +0800] "GET /heima_ssm_web/orders/findAll.do?page=1&size=3 HTTP/1.1" 302 - http-bio-8080-exec-1 126
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:05 +0800] "GET /heima_ssm_web/login.jsp HTTP/1.1" 200 2633 http-bio-8080-exec-3 735
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:09 +0800] "POST /heima_ssm_web/login.do HTTP/1.1" 200 13290 http-bio-8080-exec-4 3017
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:12 +0800] "GET /heima_ssm_web/product/findAll.do HTTP/1.1" 200 22579 http-bio-8080-exec-5 646
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:15 +0800] "GET /heima_ssm_web/orders/findAll.do?page=1&size=3 HTTP/1.1" 200 23004 http-bio-8080-exec-6 337
+0:0:0:0:0:0:0:1 - - [28/Jan/2021:16:04:18 +0800] "GET /heima_ssm_web/user/findAll.do HTTP/1.1" 200 16838 http-bio-8080-exec-7 388
